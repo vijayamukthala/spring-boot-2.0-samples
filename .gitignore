@@ -7,3 +7,5 @@
 /Servers/
 *.jar
 *.class
+
+/.settings

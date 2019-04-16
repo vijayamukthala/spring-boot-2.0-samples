@@ -17,3 +17,6 @@ eureka:
       defaultZone: http://127.0.0.1:8761/eureka/
     healthcheck:
       enabled: true   
+      
+      
+welcome-message: Welcoem to Spring Boot Microservice      
