@@ -1,5 +1,5 @@
 server:
-  port: 0
+  port: 8090
   
 spring:
   main:
@@ -7,16 +7,4 @@ spring:
   application:
     name: spring-boot-application
     
-eureka:
-  instance:
-    instance-id: ${spring.application.name}:${random.value}
-    prefer-ip-address: true
-  client:
-    register-with-eureka: true
-    service-url:
-      defaultZone: http://127.0.0.1:8761/eureka/
-    healthcheck:
-      enabled: true   
-      
-      
 welcome-message: Welcoem to Spring Boot Microservice      

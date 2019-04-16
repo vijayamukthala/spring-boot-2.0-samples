@@ -54,5 +54,6 @@
 	<modules>
 		<module>service-discovery</module>
 		<module>spring-boot-application</module>
+		<module>spring-boot-zuul</module>
 	</modules>
 </project>
