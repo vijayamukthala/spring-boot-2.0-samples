@@ -54,5 +54,6 @@
 	<modules>
 		<module>service-discovery</module>
 		<module>spring-config-server</module>
+		<module>spring-boot-application</module>
 	</modules>
 </project>
