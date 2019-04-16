@@ -1,6 +1,9 @@
-target/
+/*/*/target/
+*/target/
+/*/*/*/target/
 .metadata/
 .recommenders/
-RemoteSystemsTempFiles/
-Servers/
+/RemoteSystemsTempFiles/
+/Servers/
 *.jar
+*.class
